@@ -1,4 +1,4 @@
-
+#Zoolooretta Dice Game for 2-4 players, created for CompSci 110 final at Hamilton College
 
 #Check to see if bonuses have been claimed
 BONUS_RED = 0
